@@ -1,0 +1,948 @@
+2019-12-10T20:22:07: PM2 log: ===============================================================================
+2019-12-10T20:22:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-12-10T20:22:07: PM2 log: Time                 : Tue Dec 10 2019 20:22:07 GMT+0000 (Coordinated Universal Time)
+2019-12-10T20:22:07: PM2 log: PM2 version          : 4.2.1
+2019-12-10T20:22:07: PM2 log: Node.js version      : 12.13.1
+2019-12-10T20:22:07: PM2 log: Current arch         : x64
+2019-12-10T20:22:07: PM2 log: PM2 home             : /root/.pm2
+2019-12-10T20:22:07: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2019-12-10T20:22:07: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2019-12-10T20:22:07: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2019-12-10T20:22:07: PM2 log: Application log path : /root/.pm2/logs
+2019-12-10T20:22:07: PM2 log: Worker Interval      : 30000
+2019-12-10T20:22:07: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2019-12-10T20:22:07: PM2 log: Concurrent actions   : 2
+2019-12-10T20:22:07: PM2 log: SIGTERM timeout      : 1600
+2019-12-10T20:22:07: PM2 log: ===============================================================================
+2019-12-10T22:39:05: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:05: PM2 log: App [server:0] online
+2019-12-10T22:39:05: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:05: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:05: PM2 log: App [server:0] online
+2019-12-10T22:39:05: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:05: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:05: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:06: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:06: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:06: PM2 log: App [server:0] online
+2019-12-10T22:39:07: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:07: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:07: PM2 log: App [server:0] online
+2019-12-10T22:39:07: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:07: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:07: PM2 log: App [server:0] online
+2019-12-10T22:39:07: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:07: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:07: PM2 log: App [server:0] online
+2019-12-10T22:39:07: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:07: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:39:07: PM2 log: App [server:0] online
+2019-12-10T22:39:07: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:39:07: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-10T22:44:16: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:16: PM2 log: App [server:0] online
+2019-12-10T22:44:16: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:16: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:16: PM2 log: App [server:0] online
+2019-12-10T22:44:16: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:16: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:16: PM2 log: App [server:0] online
+2019-12-10T22:44:16: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:16: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:16: PM2 log: App [server:0] online
+2019-12-10T22:44:16: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:16: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:16: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:17: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:17: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:17: PM2 log: App [server:0] online
+2019-12-10T22:44:18: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:18: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:18: PM2 log: App [server:0] online
+2019-12-10T22:44:18: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:18: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:18: PM2 log: App [server:0] online
+2019-12-10T22:44:18: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:18: PM2 log: App [server:0] starting in -fork mode-
+2019-12-10T22:44:18: PM2 log: App [server:0] online
+2019-12-10T22:44:18: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-10T22:44:18: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-11T14:51:39: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:39: PM2 log: App [server:1] online
+2019-12-11T14:51:39: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:39: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:39: PM2 log: App [server:1] online
+2019-12-11T14:51:39: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:39: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:39: PM2 log: App [server:1] online
+2019-12-11T14:51:39: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:39: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:39: PM2 log: App [server:1] online
+2019-12-11T14:51:39: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:39: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:39: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:40: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:40: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:40: PM2 log: App [server:1] online
+2019-12-11T14:51:41: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:41: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:41: PM2 log: App [server:1] online
+2019-12-11T14:51:41: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:41: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:41: PM2 log: App [server:1] online
+2019-12-11T14:51:41: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:41: PM2 log: App [server:1] starting in -fork mode-
+2019-12-11T14:51:41: PM2 log: App [server:1] online
+2019-12-11T14:51:41: PM2 log: App [server:1] exited with code [1] via signal [SIGINT]
+2019-12-11T14:51:41: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/vetDirekt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-11T14:51:59: PM2 log: Stopping app:server id:1
+2019-12-11T14:51:59: PM2 error: app=server id=1 does not have a pid
+2019-12-11T14:52:42: PM2 log: Stopping app:server id:0
+2019-12-11T14:52:42: PM2 error: app=server id=0 does not have a pid
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:52:59: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:52:59: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:52:59: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:00: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:00: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:00: PM2 log: App [server:0] online
+2019-12-11T14:53:01: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:01: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T14:53:01: PM2 log: App [server:0] online
+2019-12-11T14:53:01: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T14:53:01: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/vetDirekt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-11T14:54:02: PM2 error: 1 : id unknown
+2019-12-11T14:54:11: PM2 log: Stopping app:server id:0
+2019-12-11T14:54:11: PM2 error: app=server id=0 does not have a pid
+2019-12-11T14:56:15: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2019-12-11T14:56:15: PM2 log: Exited peacefully
+2019-12-11T14:58:07: PM2 log: ===============================================================================
+2019-12-11T14:58:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2019-12-11T14:58:07: PM2 log: Time                 : Wed Dec 11 2019 14:58:07 GMT+0000 (Coordinated Universal Time)
+2019-12-11T14:58:07: PM2 log: PM2 version          : 4.2.1
+2019-12-11T14:58:07: PM2 log: Node.js version      : 12.13.1
+2019-12-11T14:58:07: PM2 log: Current arch         : x64
+2019-12-11T14:58:07: PM2 log: PM2 home             : /root/.pm2
+2019-12-11T14:58:07: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2019-12-11T14:58:07: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2019-12-11T14:58:07: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2019-12-11T14:58:07: PM2 log: Application log path : /root/.pm2/logs
+2019-12-11T14:58:07: PM2 log: Worker Interval      : 30000
+2019-12-11T14:58:07: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2019-12-11T14:58:07: PM2 log: Concurrent actions   : 2
+2019-12-11T14:58:07: PM2 log: SIGTERM timeout      : 1600
+2019-12-11T14:58:07: PM2 log: ===============================================================================
+2019-12-11T15:00:42: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:42: PM2 log: App [server:0] online
+2019-12-11T15:00:42: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:42: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:42: PM2 log: App [server:0] online
+2019-12-11T15:00:42: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:42: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:42: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:43: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:43: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:43: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:44: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:44: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:44: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:44: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:00:44: PM2 log: App [server:0] online
+2019-12-11T15:00:44: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:00:44: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/vetDirekt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-11T15:01:21: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:21: PM2 log: App [server:0] online
+2019-12-11T15:01:21: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:21: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:21: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:22: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:22: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:22: PM2 log: App [server:0] online
+2019-12-11T15:01:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:23: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:23: PM2 log: App [server:0] online
+2019-12-11T15:01:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:23: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:23: PM2 log: App [server:0] online
+2019-12-11T15:01:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:23: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:23: PM2 log: App [server:0] online
+2019-12-11T15:01:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:23: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:23: PM2 log: App [server:0] online
+2019-12-11T15:01:23: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:23: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:23: PM2 log: App [server:0] online
+2019-12-11T15:01:24: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:24: PM2 log: App [server:0] starting in -fork mode-
+2019-12-11T15:01:24: PM2 log: App [server:0] online
+2019-12-11T15:01:24: PM2 log: App [server:0] exited with code [1] via signal [SIGINT]
+2019-12-11T15:01:24: PM2 log: Script /var/www/vet-direkt/Vet-Direkt/vetDirekt/.nuxt/server.js had too many unstable restarts (16). Stopped. "errored"
+2019-12-11T15:06:49: PM2 log: App [vet-direct:1] starting in -fork mode-
+2019-12-11T15:06:49: PM2 log: App [vet-direct:1] online
+2019-12-11T15:07:30: PM2 log: Stopping app:server id:0
+2019-12-11T15:07:30: PM2 error: app=server id=0 does not have a pid
+2019-12-18T12:56:00: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:00: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:01: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:02: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:03: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:04: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:05: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:05: PM2 log: App [nuxt:2] starting in -fork mode-
+2019-12-18T12:56:05: PM2 log: App [nuxt:2] online
+2019-12-18T12:56:05: PM2 log: App [nuxt:2] exited with code [1] via signal [SIGINT]
+2019-12-18T12:56:05: PM2 log: Script /root/.nvm/versions/node/v12.13.1/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2019-12-18T12:56:33: PM2 log: Stopping app:nuxt id:2
+2019-12-18T12:56:33: PM2 error: app=nuxt id=2 does not have a pid
+2019-12-18T12:56:33: PM2 log: Stopping app:vet-direct id:1
+2019-12-18T12:56:33: PM2 log: App [vet-direct:1] exited with code [0] via signal [SIGINT]
+2019-12-18T12:56:33: PM2 log: pid=3998 msg=process killed
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:06: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:07: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:08: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:09: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] online
+2019-12-18T12:57:10: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T12:57:10: PM2 log: Script /root/.nvm/versions/node/v12.13.1/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2019-12-18T12:57:22: PM2 log: Stopping app:nuxt id:0
+2019-12-18T12:57:22: PM2 error: app=nuxt id=0 does not have a pid
+2019-12-18T12:57:26: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:57:26: PM2 log: App [nuxt:0] online
+2019-12-18T12:58:42: PM2 log: Stopping app:nuxt id:0
+2019-12-18T12:58:42: PM2 log: App [nuxt:0] exited with code [0] via signal [SIGINT]
+2019-12-18T12:58:42: PM2 log: pid=6468 msg=process killed
+2019-12-18T12:59:14: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T12:59:14: PM2 log: App [nuxt:0] online
+2019-12-18T12:59:24: PM2 log: Stopping app:nuxt id:0
+2019-12-18T12:59:24: PM2 log: App [nuxt:0] exited with code [0] via signal [SIGINT]
+2019-12-18T12:59:24: PM2 log: pid=6824 msg=process killed
+2019-12-18T13:03:57: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:03:57: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:00: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:00: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:00: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:03: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:03: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:03: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:06: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:06: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:06: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:09: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:09: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:09: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:12: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:12: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:12: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:15: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:15: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:15: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:19: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:19: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:19: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:22: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:22: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:22: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:25: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:25: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:25: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:28: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:28: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:28: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:31: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:31: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:31: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:34: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:34: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:34: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:37: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:37: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:37: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:40: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:40: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:40: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:43: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:43: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:43: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:47: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:47: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:47: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:50: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:50: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:50: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:53: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:53: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:53: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:56: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:56: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:56: PM2 log: App [nuxt:0] online
+2019-12-18T13:04:59: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:04:59: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:04:59: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:02: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:02: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:02: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:05: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:05: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:05: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:08: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:08: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:08: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:11: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:11: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:11: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:14: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:14: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:15: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:18: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:18: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:18: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:21: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:21: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:21: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:24: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:24: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:24: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:27: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:27: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:27: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:30: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:30: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:30: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:33: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:33: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:33: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:36: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:36: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:36: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:39: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:39: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:39: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:42: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:42: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:42: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:46: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:46: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:46: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:49: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:49: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:49: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:52: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:52: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:52: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:55: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:55: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:55: PM2 log: App [nuxt:0] online
+2019-12-18T13:05:58: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:05:58: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:05:58: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:01: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:01: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:01: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:04: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:04: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:04: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:07: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:07: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:07: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:10: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:10: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:10: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:14: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:14: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:14: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:17: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:17: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:17: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:20: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:20: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:20: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:23: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:23: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:23: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:26: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:26: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:26: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:29: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:29: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:29: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:32: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:32: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:32: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:35: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:35: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:35: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:38: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:38: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:38: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:42: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:42: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:42: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:45: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:45: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:45: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:48: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:48: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:48: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:51: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:51: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:51: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:54: PM2 log: App [nuxt:0] exited with code [1] via signal [SIGINT]
+2019-12-18T13:06:54: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:06:54: PM2 log: App [nuxt:0] online
+2019-12-18T13:06:57: PM2 log: Stopping app:nuxt id:0
+2019-12-18T13:06:57: PM2 log: App [nuxt:0] exited with code [0] via signal [SIGINT]
+2019-12-18T13:06:57: PM2 log: pid=9722 msg=process killed
+2019-12-18T13:07:36: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:07:37: PM2 log: App [nuxt:0] online
+2019-12-18T13:08:40: PM2 log: Stopping app:nuxt id:0
+2019-12-18T13:08:40: PM2 log: App [nuxt:0] exited with code [0] via signal [SIGINT]
+2019-12-18T13:08:40: PM2 log: pid=9899 msg=process killed
+2019-12-18T13:28:34: PM2 log: App [nuxt:0] starting in -fork mode-
+2019-12-18T13:28:34: PM2 log: App [nuxt:0] online
+2019-12-18T19:16:56: PM2 log: Stopping app:nuxt id:0
+2019-12-18T19:16:56: PM2 log: App [nuxt:0] exited with code [0] via signal [SIGINT]
+2019-12-18T19:16:56: PM2 log: pid=14247 msg=process killed
+2019-12-18T19:19:29: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-18T19:19:29: PM2 log: App [Vet-Direkt:0] online
+2019-12-18T20:18:58: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2019-12-18T20:18:58: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-18T20:18:58: PM2 log: App [Vet-Direkt:0] online
+2019-12-23T15:31:09: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-23T15:31:09: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-23T15:31:09: PM2 log: pid=22409 msg=process killed
+2019-12-23T15:40:10: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-23T15:40:10: PM2 log: App [Vet-Direkt:0] online
+2019-12-24T20:49:45: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-24T20:49:45: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-24T20:49:45: PM2 log: pid=25549 msg=process killed
+2019-12-24T20:52:57: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-24T20:52:57: PM2 log: App [Vet-Direkt:0] online
+2019-12-24T20:53:59: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-24T20:53:59: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-24T20:53:59: PM2 log: pid=16527 msg=process killed
+2019-12-24T21:05:46: PM2 log: App [Vet-Direkt:1] starting in -fork mode-
+2019-12-24T21:05:46: PM2 log: App [Vet-Direkt:1] online
+2019-12-24T21:06:55: PM2 log: Stopping app:Vet-Direkt id:1
+2019-12-24T21:06:55: PM2 log: App [Vet-Direkt:1] exited with code [0] via signal [SIGINT]
+2019-12-24T21:06:55: PM2 log: pid=18966 msg=process killed
+2019-12-24T21:08:19: PM2 log: App [Vet-Direkt:2] starting in -fork mode-
+2019-12-24T21:08:19: PM2 log: App [Vet-Direkt:2] online
+2019-12-25T21:49:40: PM2 log: Stopping app:Vet-Direkt id:2
+2019-12-25T21:49:40: PM2 log: App [Vet-Direkt:2] exited with code [0] via signal [SIGINT]
+2019-12-25T21:49:40: PM2 log: pid=19499 msg=process killed
+2019-12-25T21:51:02: PM2 log: App [Vet-Direkt:2] starting in -fork mode-
+2019-12-25T21:51:02: PM2 log: App [Vet-Direkt:2] online
+2019-12-25T21:52:06: PM2 log: Stopping app:Vet-Direkt id:2
+2019-12-25T21:52:06: PM2 log: App [Vet-Direkt:2] exited with code [0] via signal [SIGINT]
+2019-12-25T21:52:06: PM2 log: pid=27470 msg=process killed
+2019-12-25T21:52:24: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-25T21:52:24: PM2 log: App [Vet-Direkt:0] online
+2019-12-27T00:49:46: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-27T00:49:46: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-27T00:49:46: PM2 log: pid=27783 msg=process killed
+2019-12-27T00:50:45: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-27T00:50:45: PM2 log: App [Vet-Direkt:0] online
+2019-12-27T23:57:47: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-27T23:57:47: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-27T23:57:48: PM2 log: pid=24631 msg=process killed
+2019-12-27T23:58:57: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:57: PM2 log: App [npm:0] online
+2019-12-27T23:58:57: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:57: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:57: PM2 log: App [npm:0] online
+2019-12-27T23:58:58: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:58: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:58: PM2 log: App [npm:0] online
+2019-12-27T23:58:58: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:58: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:58: PM2 log: App [npm:0] online
+2019-12-27T23:58:58: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:58: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:58: PM2 log: App [npm:0] online
+2019-12-27T23:58:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:59: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:59: PM2 log: App [npm:0] online
+2019-12-27T23:58:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:59: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:59: PM2 log: App [npm:0] online
+2019-12-27T23:58:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:59: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:59: PM2 log: App [npm:0] online
+2019-12-27T23:58:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:58:59: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:58:59: PM2 log: App [npm:0] online
+2019-12-27T23:59:00: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:00: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:00: PM2 log: App [npm:0] online
+2019-12-27T23:59:00: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:00: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:00: PM2 log: App [npm:0] online
+2019-12-27T23:59:00: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:00: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:00: PM2 log: App [npm:0] online
+2019-12-27T23:59:01: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:01: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:01: PM2 log: App [npm:0] online
+2019-12-27T23:59:01: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:01: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:01: PM2 log: App [npm:0] online
+2019-12-27T23:59:01: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:01: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:01: PM2 log: App [npm:0] online
+2019-12-27T23:59:01: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:01: PM2 log: App [npm:0] starting in -fork mode-
+2019-12-27T23:59:02: PM2 log: App [npm:0] online
+2019-12-27T23:59:02: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2019-12-27T23:59:02: PM2 log: Script /root/.nvm/versions/node/v12.13.1/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2019-12-27T23:59:40: PM2 log: Stopping app:npm id:0
+2019-12-27T23:59:40: PM2 error: app=npm id=0 does not have a pid
+2019-12-27T23:59:46: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-27T23:59:46: PM2 log: App [Vet-Direkt:0] online
+2019-12-28T23:19:14: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-28T23:19:14: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-28T23:19:14: PM2 log: pid=13337 msg=process killed
+2019-12-28T23:20:39: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-28T23:20:39: PM2 log: App [Vet-Direkt:0] online
+2019-12-28T23:21:59: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-28T23:21:59: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-28T23:21:59: PM2 log: pid=4680 msg=process killed
+2019-12-28T23:23:01: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-28T23:23:01: PM2 log: App [Vet-Direkt:0] online
+2019-12-28T23:25:49: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-28T23:25:49: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-28T23:25:49: PM2 log: pid=5169 msg=process killed
+2019-12-28T23:27:45: PM2 log: App [Vet-dev:0] starting in -fork mode-
+2019-12-28T23:27:45: PM2 log: App [Vet-dev:0] online
+2019-12-28T23:28:51: PM2 log: Stopping app:Vet-dev id:0
+2019-12-28T23:28:51: PM2 log: App [Vet-dev:0] exited with code [0] via signal [SIGINT]
+2019-12-28T23:28:51: PM2 log: pid=6100 msg=process killed
+2019-12-28T23:42:12: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-28T23:42:12: PM2 log: App [Vet-Direkt:0] online
+2019-12-28T23:46:48: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-28T23:46:48: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-28T23:46:48: PM2 log: pid=8979 msg=process killed
+2019-12-29T00:39:17: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-29T00:39:17: PM2 log: App [Vet-Direkt:0] online
+2019-12-29T07:44:34: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-29T07:44:34: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-29T07:44:34: PM2 log: pid=19700 msg=process killed
+2019-12-29T07:44:34: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-29T07:44:34: PM2 log: App [Vet-Direkt:0] online
+2019-12-29T07:44:38: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-29T07:44:38: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-29T07:44:38: PM2 log: pid=31654 msg=process killed
+2019-12-29T07:44:38: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2019-12-29T07:44:38: PM2 log: App [Vet-Direkt:0] online
+2019-12-29T08:02:25: PM2 log: Stopping app:Vet-Direkt id:0
+2019-12-29T08:02:25: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2019-12-29T08:02:26: PM2 log: pid=31734 msg=process killed
+2019-12-29T08:02:52: PM2 log: App [vdirekt:0] starting in -fork mode-
+2019-12-29T08:02:52: PM2 log: App [vdirekt:0] online
+2019-12-31T01:50:40: PM2 log: Stopping app:vdirekt id:0
+2019-12-31T01:50:40: PM2 log: App [vdirekt:0] exited with code [0] via signal [SIGINT]
+2019-12-31T01:50:40: PM2 log: pid=2596 msg=process killed
+2019-12-31T01:57:24: PM2 log: App [vet-direkt:0] starting in -fork mode-
+2019-12-31T01:57:24: PM2 log: App [vet-direkt:0] online
+2020-01-06T14:43:22: PM2 log: ===============================================================================
+2020-01-06T14:43:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-06T14:43:22: PM2 log: Time                 : Mon Jan 06 2020 14:43:22 GMT+0000 (Coordinated Universal Time)
+2020-01-06T14:43:22: PM2 log: PM2 version          : 4.2.1
+2020-01-06T14:43:22: PM2 log: Node.js version      : 12.13.1
+2020-01-06T14:43:22: PM2 log: Current arch         : x64
+2020-01-06T14:43:22: PM2 log: PM2 home             : /root/.pm2
+2020-01-06T14:43:22: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-06T14:43:22: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-06T14:43:22: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-06T14:43:22: PM2 log: Application log path : /root/.pm2/logs
+2020-01-06T14:43:22: PM2 log: Worker Interval      : 30000
+2020-01-06T14:43:22: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-06T14:43:22: PM2 log: Concurrent actions   : 2
+2020-01-06T14:43:22: PM2 log: SIGTERM timeout      : 1600
+2020-01-06T14:43:22: PM2 log: ===============================================================================
+2020-01-06T14:43:58: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-06T14:43:58: PM2 log: App [Vet-Direkt:0] online
+2020-01-08T19:12:47: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-08T19:12:47: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2020-01-08T19:12:47: PM2 log: pid=30633 msg=process killed
+2020-01-08T19:13:05: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-08T19:13:05: PM2 log: App [Vet-Direkt:0] online
+2020-01-08T19:14:33: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-08T19:14:33: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2020-01-08T19:14:33: PM2 log: pid=17296 msg=process killed
+2020-01-08T19:15:36: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-08T19:15:36: PM2 log: App [Vet-Direkt:0] online
+2020-01-12T23:01:43: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-12T23:01:43: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2020-01-12T23:01:43: PM2 log: pid=17853 msg=process killed
+2020-01-12T23:03:43: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-12T23:03:43: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T02:45:57: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T02:45:57: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T02:45:57: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T06:34:39: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T06:34:39: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T06:34:39: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T06:46:54: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T06:46:54: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T06:46:54: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T06:56:18: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T06:56:18: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T06:56:19: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:00:14: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:00:14: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:00:14: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:00:33: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:00:33: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:00:33: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:01:14: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:01:14: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:01:14: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:01:58: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:01:58: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:01:58: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:04:31: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:04:31: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:04:31: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T07:07:13: PM2 log: App [Vet-Direkt:0] exited with code [137] via signal [SIGINT]
+2020-01-14T07:07:13: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T07:07:13: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T13:49:42: PM2 log: ===============================================================================
+2020-01-14T13:49:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-14T13:49:43: PM2 log: Time                 : Tue Jan 14 2020 13:49:42 GMT+0000 (Coordinated Universal Time)
+2020-01-14T13:49:43: PM2 log: PM2 version          : 4.2.1
+2020-01-14T13:49:43: PM2 log: Node.js version      : 12.13.1
+2020-01-14T13:49:43: PM2 log: Current arch         : x64
+2020-01-14T13:49:43: PM2 log: PM2 home             : /root/.pm2
+2020-01-14T13:49:43: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-14T13:49:43: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-14T13:49:43: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-14T13:49:43: PM2 log: Application log path : /root/.pm2/logs
+2020-01-14T13:49:43: PM2 log: Worker Interval      : 30000
+2020-01-14T13:49:43: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-14T13:49:43: PM2 log: Concurrent actions   : 2
+2020-01-14T13:49:43: PM2 log: SIGTERM timeout      : 1600
+2020-01-14T13:49:43: PM2 log: ===============================================================================
+2020-01-14T13:50:12: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T13:50:13: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T13:50:25: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGKILL]
+2020-01-14T13:50:25: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T13:50:25: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T13:51:04: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGKILL]
+2020-01-14T13:51:04: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T13:51:06: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T13:51:28: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGKILL]
+2020-01-14T13:51:28: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T13:51:29: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T13:51:35: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGKILL]
+2020-01-14T14:14:05: PM2 log: ===============================================================================
+2020-01-14T14:14:05: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-14T14:14:05: PM2 log: Time                 : Tue Jan 14 2020 14:14:05 GMT+0000 (Coordinated Universal Time)
+2020-01-14T14:14:05: PM2 log: PM2 version          : 4.2.1
+2020-01-14T14:14:05: PM2 log: Node.js version      : 12.13.1
+2020-01-14T14:14:05: PM2 log: Current arch         : x64
+2020-01-14T14:14:05: PM2 log: PM2 home             : /root/.pm2
+2020-01-14T14:14:05: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-14T14:14:05: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-14T14:14:05: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-14T14:14:05: PM2 log: Application log path : /root/.pm2/logs
+2020-01-14T14:14:05: PM2 log: Worker Interval      : 30000
+2020-01-14T14:14:05: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-14T14:14:05: PM2 log: Concurrent actions   : 2
+2020-01-14T14:14:05: PM2 log: SIGTERM timeout      : 1600
+2020-01-14T14:14:05: PM2 log: ===============================================================================
+2020-01-14T14:14:26: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T14:14:26: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T14:16:02: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-14T14:16:03: PM2 log: pid=1848 msg=failed to kill - retrying in 100ms
+2020-01-14T14:16:03: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2020-01-14T14:16:03: PM2 log: pid=1848 msg=process killed
+2020-01-14T14:21:26: PM2 log: ===============================================================================
+2020-01-14T14:21:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-14T14:21:26: PM2 log: Time                 : Tue Jan 14 2020 14:21:26 GMT+0000 (Coordinated Universal Time)
+2020-01-14T14:21:26: PM2 log: PM2 version          : 4.2.1
+2020-01-14T14:21:26: PM2 log: Node.js version      : 12.13.1
+2020-01-14T14:21:26: PM2 log: Current arch         : x64
+2020-01-14T14:21:26: PM2 log: PM2 home             : /root/.pm2
+2020-01-14T14:21:26: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-14T14:21:26: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-14T14:21:26: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-14T14:21:26: PM2 log: Application log path : /root/.pm2/logs
+2020-01-14T14:21:26: PM2 log: Worker Interval      : 30000
+2020-01-14T14:21:26: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-14T14:21:26: PM2 log: Concurrent actions   : 2
+2020-01-14T14:21:26: PM2 log: SIGTERM timeout      : 1600
+2020-01-14T14:21:26: PM2 log: ===============================================================================
+2020-01-14T14:29:45: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T14:29:45: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T14:29:57: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-14T14:29:57: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGINT]
+2020-01-14T14:29:57: PM2 log: pid=5718 msg=process killed
+2020-01-14T14:30:20: PM2 log: App [Vet-Direkt:0] starting in -fork mode-
+2020-01-14T14:30:20: PM2 log: App [Vet-Direkt:0] online
+2020-01-14T16:25:12: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2020-01-14T16:25:12: PM2 log: Deleting process 0
+2020-01-14T16:25:12: PM2 log: Stopping app:Vet-Direkt id:0
+2020-01-14T16:25:12: PM2 log: App [Vet-Direkt:0] exited with code [0] via signal [SIGHUP]
+2020-01-14T16:25:12: PM2 log: pid=5863 msg=process killed
+2020-01-14T16:25:12: PM2 log: Exited peacefully
+2020-01-14T16:25:40: PM2 log: ===============================================================================
+2020-01-14T16:25:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-01-14T16:25:40: PM2 log: Time                 : Tue Jan 14 2020 16:25:40 GMT+0000 (Coordinated Universal Time)
+2020-01-14T16:25:40: PM2 log: PM2 version          : 4.2.1
+2020-01-14T16:25:40: PM2 log: Node.js version      : 12.13.1
+2020-01-14T16:25:40: PM2 log: Current arch         : x64
+2020-01-14T16:25:40: PM2 log: PM2 home             : /root/.pm2
+2020-01-14T16:25:40: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-01-14T16:25:40: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-01-14T16:25:40: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-01-14T16:25:40: PM2 log: Application log path : /root/.pm2/logs
+2020-01-14T16:25:40: PM2 log: Worker Interval      : 30000
+2020-01-14T16:25:40: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-01-14T16:25:40: PM2 log: Concurrent actions   : 2
+2020-01-14T16:25:40: PM2 log: SIGTERM timeout      : 1600
+2020-01-14T16:25:40: PM2 log: ===============================================================================
+2020-01-14T16:31:48: PM2 log: App [VD:0] starting in -fork mode-
+2020-01-14T16:31:48: PM2 log: App [VD:0] online
+2020-01-14T16:52:05: PM2 log: Stopping app:VD id:0
+2020-01-14T16:52:05: PM2 log: App [VD:0] exited with code [0] via signal [SIGINT]
+2020-01-14T16:52:05: PM2 log: pid=3311 msg=process killed
+2020-01-19T17:58:07: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2020-01-19T17:58:07: PM2 log: Exited peacefully
+2020-01-19T17:58:07: PM2 log: pm2 has been killed by signal, dumping process list before exit...
+2020-01-19T17:58:07: PM2 log: Exited peacefully

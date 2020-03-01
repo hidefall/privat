@@ -1,0 +1,39 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   '/root/.nvm/versions/node/v12.13.1/bin/node',
+1 verbose cli   '/root/.nvm/versions/node/v12.13.1/bin/npm',
+1 verbose cli   'run',
+1 verbose cli   'build'
+1 verbose cli ]
+2 info using npm@6.12.1
+3 info using node@v12.13.1
+4 verbose run-script [ 'prebuild', 'build', 'postbuild' ]
+5 info lifecycle vetDirekt@1.0.0~prebuild: vetDirekt@1.0.0
+6 info lifecycle vetDirekt@1.0.0~build: vetDirekt@1.0.0
+7 verbose lifecycle vetDirekt@1.0.0~build: unsafe-perm in lifecycle true
+8 verbose lifecycle vetDirekt@1.0.0~build: PATH: /root/.nvm/versions/node/v12.13.1/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/var/www/Vet-Direkt/node_modules/.bin:/root/.nvm/versions/node/v12.13.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle vetDirekt@1.0.0~build: CWD: /var/www/Vet-Direkt
+10 silly lifecycle vetDirekt@1.0.0~build: Args: [ '-c', 'nuxt build' ]
+11 silly lifecycle vetDirekt@1.0.0~build: Returned: code: 1  signal: null
+12 info lifecycle vetDirekt@1.0.0~build: Failed to exec build script
+13 verbose stack Error: vetDirekt@1.0.0 build: `nuxt build`
+13 verbose stack Exit status 1
+13 verbose stack     at EventEmitter.<anonymous> (/root/.nvm/versions/node/v12.13.1/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+13 verbose stack     at EventEmitter.emit (events.js:210:5)
+13 verbose stack     at ChildProcess.<anonymous> (/root/.nvm/versions/node/v12.13.1/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+13 verbose stack     at ChildProcess.emit (events.js:210:5)
+13 verbose stack     at maybeClose (internal/child_process.js:1021:16)
+13 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:283:5)
+14 verbose pkgid vetDirekt@1.0.0
+15 verbose cwd /var/www/Vet-Direkt
+16 verbose Linux 4.15.0-74-generic
+17 verbose argv "/root/.nvm/versions/node/v12.13.1/bin/node" "/root/.nvm/versions/node/v12.13.1/bin/npm" "run" "build"
+18 verbose node v12.13.1
+19 verbose npm  v6.12.1
+20 error code ELIFECYCLE
+21 error errno 1
+22 error vetDirekt@1.0.0 build: `nuxt build`
+22 error Exit status 1
+23 error Failed at the vetDirekt@1.0.0 build script.
+23 error This is probably not a problem with npm. There is likely additional logging output above.
+24 verbose exit [ 1, true ]

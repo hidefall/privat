@@ -1,0 +1,86 @@
+
+> vetDirekt@1.0.0 start /var/www/Vet-Direkt
+> nuxt start
+
+ℹ Listening on: http://165.22.19.48:8000/
+[33m1[39m [
+  {
+    title: [32m'Do I Have To Pay Shipping Costs?'[39m,
+    details: [32m'Yes, regardless of how much you order, you pay a shipping contribution never higher than €3,95.'[39m
+  },
+  {
+    title: [32m'What Is The Delivery Time Of My Order?'[39m,
+    details: [32m'For most articles: if you order on workdays before 09.00 pm, your order will be sent the same day. <br><br>'[39m
+  },
+  {
+    title: [32m'Which Methods Of Payment Do You Offer?'[39m,
+    details: [32m'Vetdirekt offers the following methods of payment:<br><br>\r\n'[39m +
+      [32m'<b>iDEAL</b>(Dutch bank accounts only)<br>\r\n'[39m +
+      [32m'The following banks offer iDEAL: ABN AMRO, ING, Rabobank, ASN Bank, Friesland Bank, RegioBank, Triodos Bank, Van Lanschot Bankiers or SNS Bank. iDEAL is safe, fast and easy!<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'- You pay through your own bank, familiar and safe.<br>\r\n'[39m +
+      [32m'- Registration or downloading special software is not required.<br>\r\n'[39m +
+      [32m'- Your iDEAL payment is immediately processed and visible in your account statement.<br>\r\n'[39m +
+      [32m'- An iDEAL payment is free of charge.<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'<b>PayPal</b><br>\r\n'[39m +
+      [32m'If you choose this payment method, you will immediately be redirected to the website of PayPal. You can create a new account or log in with your current PayPal user name and confirm the payment. Upon receipt of your payment we will send you a confirmation. \r\n'[39m +
+      [32m'<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'- A PayPal payment is safe and fast.<br>\r\n'[39m +
+      [32m'- If you have a PayPal account you don’t have to enter your financial data every time.<br>\r\n'[39m +
+      [32m'- PayPal purchase protection covers you if you have a problem. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'<b>Credit Card</b> (via PayPal)<br>\r\n'[39m +
+      [32m'If you prefer payment by Credit Card you can use PayPal as well. You can link your Credit Card to your account by entering the card data. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'<b>Bancontact/Mister Cash</b>(Belgian bank accounts only)<br>\r\n'[39m +
+      [32m'Fast and easy payment!<br>\r\n'[39m +
+      [32m'Enter the card number and the validity date of your Bancontact / Mister Cash card. You will be redirected to the website of your bank to confirm your personal data and the order.<br>\r\n'[39m +
+      [32m'Enter the card number and the validity date of your Bancontact / Mister Cash card. You will be redirected to the website of your bank to confirm your personal data and the order.\r\n'[39m +
+      [32m'<br><br>\r\n'[39m +
+      [32m'Online Bancontact/Mister Cash-payments on internet are protected by the secured service called NetBanking. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'<b>Sofort Banking</b><br>\r\n'[39m +
+      [32m'Sofort Banking makes online payments easier than ever! You simply use your familiar Internet Banking data. This method is extremely safe. As it’s  a real-time payment process, your order will be processed quickly (faster than a common bank transfer).<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'<b>Advance payment</b> (Bank Transfer)<br>\r\n'[39m +
+      [32m'Bank transfers are no problem. If you place an order, we will send you a confirmation by e-mail inclusive of bank account number. Upon receipt of your payment, your order will be shipped (attention: it might take 3 days).<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'Four Points BV<br>\r\n'[39m +
+      [32m'NL28INGB0007143954<br>\r\n'[39m +
+      [32m'INGBNL2A'[39m
+  },
+  {
+    title: [32m'How Can I Return My Product?'[39m,
+    details: [32m'Unopened, unused articles can be returned, in the original packing, within 14 days to below address: <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'Vet Direkt Retouren<br>\r\n'[39m +
+      [32m'Mon Plaisir 4<br>\r\n'[39m +
+      [32m'4879 AN Etten-Leur<br>\r\n'[39m +
+      [32m'The Netherlands\r\n'[39m +
+      [32m'<br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'Please always enclose the packing slip or a note with your order number and address details. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'We will refund the total amount as soon as possible. In case we receive a damaged return shipment or an unstamped shipment we are entitled to charge costs.\r\n'[39m +
+      [32m'<br><br>'[39m
+  },
+  {
+    title: [32m'What Does It Cost To Return Or Exchange A Product?'[39m,
+    details: [32m'If you wish to return an article as you ordered the wrong product, the shipping costs will be at your account.<br><br>\r\n'[39m +
+      [32m'If you received a faulty article, we request you to return it. In that case we will be responsible for the shipping costs.'[39m
+  },
+  {
+    title: [32m'Can I Exchange My Product And Order Another One?'[39m,
+    details: [32m'No, this is not possible. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'Perhaps you have ordered the wrong product. In that case you simply return it to us (within 14 days). Upon receipt, we will refund the costs as soon as possible. <br><br>\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'You can simply place a new order on our website. If you order it on working days before 09.00 pm we will ship it the same day.<br><br>'[39m
+  },
+  {
+    title: [32m'I Have Received An Item With A Default, Now What?'[39m,
+    details: [32m'Please make clear pictures of the default and send these to us through mail together with a description of the problem. We do our best to offer a solution as soon as possible.'[39m
+  }
+]

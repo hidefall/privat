@@ -1,0 +1,251 @@
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (1316c43ad9dce247b505.js:1:1128)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70663
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70270)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67517)
+  at node_modules/vue-server-renderer/build.prod.js:1:70737
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (1316c43ad9dce247b505.js:1:1128)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70663
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70270)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67517)
+  at node_modules/vue-server-renderer/build.prod.js:1:70737
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (1316c43ad9dce247b505.js:1:1128)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70663
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70270)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67517)
+  at node_modules/vue-server-renderer/build.prod.js:1:70737
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (1316c43ad9dce247b505.js:1:1128)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70663
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70270)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67517)
+  at node_modules/vue-server-renderer/build.prod.js:1:70737
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67227)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70639)
+
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2019-12-18T20_18_58_099Z-debug.log
+
+ ERROR  URI malformed
+
+  at decodeURI (<anonymous>)
+  at nuxtMiddleware (node_modules/@nuxt/server/dist/server.js:138:17)
+  at call (node_modules/connect/index.js:239:7)
+  at next (node_modules/connect/index.js:183:5)
+  at servePlaceholderMiddleware (node_modules/serve-placeholder/src/index.js:29:16)
+  at call (node_modules/connect/index.js:239:7)
+  at next (node_modules/connect/index.js:183:5)
+  at next (node_modules/connect/index.js:161:14)
+  at middleware (node_modules/http-proxy-middleware/lib/index.js:48:7)
+  at call (node_modules/connect/index.js:239:7)
+
+
+ ERROR  URI malformed
+
+  at decodeURI (<anonymous>)
+  at nuxtMiddleware (node_modules/@nuxt/server/dist/server.js:138:17)
+  at call (node_modules/connect/index.js:239:7)
+  at next (node_modules/connect/index.js:183:5)
+  at servePlaceholderMiddleware (node_modules/serve-placeholder/src/index.js:29:16)
+  at call (node_modules/connect/index.js:239:7)
+  at next (node_modules/connect/index.js:183:5)
+  at next (node_modules/connect/index.js:161:14)
+  at middleware (node_modules/http-proxy-middleware/lib/index.js:48:7)
+  at call (node_modules/connect/index.js:239:7)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0081.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0045.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0048.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0046.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0044.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  [HPM] Error occurred while trying to proxy request /master/images/categories/brands-0117.jpg from 165.22.19.48:8000 to https://www.vetdirekt.shop (ECONNRESET) (https://nodejs.org/api/errors.html#errors_common_system_errors)
+
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (eb7525901b22c5cc86f7.js:1:10194)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70665
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67229)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70641)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70272)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67519)
+  at node_modules/vue-server-renderer/build.prod.js:1:70739
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67229)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70641)
+
+
+ ERROR  Cannot read property 'title' of undefined
+
+  at a.<anonymous> (eb7525901b22c5cc86f7.js:1:10194)
+  at a.t._render (node_modules/vue/dist/vue.runtime.common.prod.js:6:35273)
+  at node_modules/vue-server-renderer/build.prod.js:1:70665
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67229)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70641)
+  at ro (node_modules/vue-server-renderer/build.prod.js:1:70272)
+  at eo (node_modules/vue-server-renderer/build.prod.js:1:67519)
+  at node_modules/vue-server-renderer/build.prod.js:1:70739
+  at Yi (node_modules/vue-server-renderer/build.prod.js:1:67229)
+  at io (node_modules/vue-server-renderer/build.prod.js:1:70641)
+
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T02_45_57_851Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T06_34_37_670Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T06_46_54_152Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T06_56_18_616Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_00_12_853Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_00_32_991Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_01_11_010Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_01_58_147Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_04_31_817Z-debug.log
+Killed
+npm ERR! code ELIFECYCLE
+npm ERR! errno 137
+npm ERR! vetDirekt@1.0.0 start: `nuxt start`
+npm ERR! Exit status 137
+npm ERR! 
+npm ERR! Failed at the vetDirekt@1.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2020-01-14T07_07_13_187Z-debug.log

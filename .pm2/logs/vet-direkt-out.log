@@ -1,0 +1,1296 @@
+
+> vetDirekt@1.0.0 start /var/www/Vet-Direkt
+> nuxt start
+
+ℹ Listening on: http://165.22.19.48:8000/
+[33m1[39m [Map Iterator] {
+  [32m'- Definitions'[39m,
+  [32m'- Identity of the traders'[39m,
+  [32m'- Applicability'[39m,
+  [32m'- The offer'[39m,
+  [32m'- The contract'[39m,
+  [32m'- Right of withdrawal'[39m,
+  [32m'- Costs in a case of withdrawal'[39m,
+  [32m'- Preclusion from right of withdrawal'[39m,
+  [32m'- The price'[39m,
+  [32m'- Conformity and Guarantee'[39m,
+  [32m'- Supply and implementation'[39m,
+  [32m'- Payment'[39m,
+  [32m'- Complaints procedure'[39m,
+  [32m'- Disputes'[39m,
+  [32m'- Additional or different stipulations'[39m
+}
+[33m1[39m [
+  {
+    id: [32m'1'[39m,
+    title: [32m'- Definitions'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="right" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The \r\n'[39m +
+      [32m'    following definitions apply in these terms and conditions:</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">\r\n'[39m +
+      [32m'    1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Withdrawal period: </b>the period within which the consumer can make \r\n'[39m +
+      [32m'      use of his right of withdrawal;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Consumer: </b>the natural person whose action is not within the course of a \r\n'[39m +
+      [32m'    profession or business and who enters into an distance contract with the \r\n'[39m +
+      [32m'    trader;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Day: </b>calendar day;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Extended duration transaction: </b>a distance contract that relates to a series of \r\n'[39m +
+      [32m'    products and/or services, whereby the obligation to supply and/or purchase \r\n'[39m +
+      [32m'    is spread over a period of time;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">5</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Durable medium: </b>every means that enables the consumer or trader to store \r\n'[39m +
+      [32m'    information that is addressed to him in person in a way that facilitates \r\n'[39m +
+      [32m'    future consultation and unaltered reproduction of the stored information;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">6</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Right of withdrawal: </b>the possibility for the consumer to waive the distance \r\n'[39m +
+      [32m'    contract within the withdrawal period;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">7</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Trader:</b> the natural or legal person who offers products and/or services to \r\n'[39m +
+      [32m'    consumers from a distance;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  \r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">8</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Distance contract: </b>a contract whereby sole use is made of one or more techniques \r\n'[39m +
+      [32m'    for distance communication within the framework of a system organized by the \r\n'[39m +
+      [32m'    trader for the distance sale of products and/or services, up to and \r\n'[39m +
+      [32m'    including the moment that the contract is concluded;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">9</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Technique for distance communication: </b>means that can be used for \r\n'[39m +
+      [32m'    concluding a contract, without the consumer and trader being in the same \r\n'[39m +
+      [32m'    place at the same time.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'2'[39m,
+    title: [32m'- Identity of the traders'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'      <b>Four Points BV</b> trade name : Vetdirekt</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'Baronielaan 92<br>\r\n'[39m +
+      [32m'4818 RC  Breda</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'    <b>Telephone number:</b> 0031(0) 854 891 880  (Monday / Friday 09:00 to 17:00 hours) </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>E-mail \r\n'[39m +
+      [32m'    address:</b>\r\n'[39m +
+      [32m'    <a href="mailto:info@four-points.nl">info@four-points.nl</a></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>Chamber \r\n'[39m +
+      [32m'    of Commerce number:</b> 20030513 \r\n'[39m +
+      [32m' </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"><b>VAT \r\n'[39m +
+      [32m'    identification number:</b>\r\n'[39m +
+      [32m'    NL 0078.35.310 B01 </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'3'[39m,
+    title: [32m'- Applicability'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'      These general terms and conditions apply to every offer made by a trader \r\n'[39m +
+      [32m'      and to every distance contract that is realized between a trader and a \r\n'[39m +
+      [32m'      consumer.\r\n'[39m +
+      [32m' \r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'4'[39m,
+    title: [32m'- The offer'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'      If an offer is subject to a limited period of validity or is \r\n'[39m +
+      [32m'    made subject to conditions, this will be explicitly mentioned in the offer.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'    The offer contains a complete and accurate description of the \r\n'[39m +
+      [32m'    products and/or services being offered. The description is sufficiently \r\n'[39m +
+      [32m'    detailed to enable the consumer to make a proper assessment of the offer. If \r\n'[39m +
+      [32m'    the trader makes use of illustrations, these will be a true representation \r\n'[39m +
+      [32m'    of the products and/or services being offered. The trader is not bound by \r\n'[39m +
+      [32m'    obvious errors or mistakes in the offer.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Every offer \r\n'[39m +
+      [32m'    will contain such information that makes it clear to the consumer what \r\n'[39m +
+      [32m'    rights and obligations are involved in accepting the offer. This includes, \r\n'[39m +
+      [32m'    in particular:</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the price, including taxes;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">any costs of delivery;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the way in which the contract shall be concluded and which \r\n'[39m +
+      [32m'    actions this will require;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">whether or not the right of withdrawal applies;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the method of payment, delivery and implementation of the \r\n'[39m +
+      [32m'    contract;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the period for accepting the offer or the period for which the \r\n'[39m +
+      [32m'    trader guarantees the price;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the size of the tariff for distance communication, if the costs \r\n'[39m +
+      [32m'    of using the technique for distance communication are calculated on some \r\n'[39m +
+      [32m'    other basis than the regular basic tariff for the chosen communication \r\n'[39m +
+      [32m'    technique;;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">if a \r\n'[39m +
+      [32m'    contract is filed subsequent to its conclusion, and if so, the way in which \r\n'[39m +
+      [32m'    this can be accessed by the consumer;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the way in which the consumer can obtain information about the \r\n'[39m +
+      [32m'    data he has provided for in the course of the contract, as well as the way \r\n'[39m +
+      [32m'    he can rectify these before the contract is concluded;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the languages in which, in addition to Dutch, the contract can \r\n'[39m +
+      [32m'    be concluded;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the behavioral codes to which the trader is subject and the way \r\n'[39m +
+      [32m'    in which the consumer can consult these behavioral codes electronically; and</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    -</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the minimum duration of the distance contract, in the event of \r\n'[39m +
+      [32m'    a contract that involves the continual or periodical supply of products or \r\n'[39m +
+      [32m'    services.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'5'[39m,
+    title: [32m'- The contract'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The \r\n'[39m +
+      [32m'    contract will be concluded, subject to that which is stipulated in paragraph \r\n'[39m +
+      [32m'    4, at the moment at which the consumer accepts the offer and the conditions \r\n'[39m +
+      [32m'    thereby stipulated have been fulfilled.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If the \r\n'[39m +
+      [32m'    consumer has accepted the offer electronically, the trader will immediately \r\n'[39m +
+      [32m'    confirm receipt of acceptance of the offer electronically. The consumer can \r\n'[39m +
+      [32m'    dissolve the contract as long as this acceptance has not been confirmed by \r\n'[39m +
+      [32m'    the trader.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If the \r\n'[39m +
+      [32m'    contract is concluded electronically, the trader will take suitable \r\n'[39m +
+      [32m'    technical and organizational measures to secure the electronic transfer of \r\n'[39m +
+      [32m'    data and he will ensure a safe web environment. If the consumer is able to \r\n'[39m +
+      [32m'    pay electronically, the trader will take suitable security measures.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The trader \r\n'[39m +
+      [32m'    may obtain information – within statutory frameworks – about the consumer’s \r\n'[39m +
+      [32m'    ability to fulfill his payment obligations, as well as about facts and \r\n'[39m +
+      [32m'    factors that are important for the responsible conclusion of the distance \r\n'[39m +
+      [32m'    contract. If that research gives the trader proper grounds for declining to \r\n'[39m +
+      [32m'    conclude the contract, then he has a right, supported by reasons, to reject \r\n'[39m +
+      [32m'    an order or application or to bind its implementation to special conditions.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">5</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Together \r\n'[39m +
+      [32m'    with the product or service, the trader will send to the consumer the \r\n'[39m +
+      [32m'    following information, in writing, or in such a way that the consumer can \r\n'[39m +
+      [32m'    store it on an accessible durable medium:</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">a.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the office \r\n'[39m +
+      [32m'    address of the trader’s business location where the consumer can lodge \r\n'[39m +
+      [32m'    complaints;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">b.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"> the \r\n'[39m +
+      [32m'    conditions under which the consumer can make use of the right of withdrawal \r\n'[39m +
+      [32m'    and the method for so doing, or a clear statement relating to the exclusion \r\n'[39m +
+      [32m'    of the right of withdrawal;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">c.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">information \r\n'[39m +
+      [32m'    on guarantees and existing after-sales service;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">d.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the data \r\n'[39m +
+      [32m'    included in article 4, paragraph 3 of these conditions, unless the trader \r\n'[39m +
+      [32m'    has already provided the consumer with these prior to concluding the \r\n'[39m +
+      [32m'    contract;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">e.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the \r\n'[39m +
+      [32m'    requirements for terminating the contract, if the duration of the contract \r\n'[39m +
+      [32m'    exceeds one year or is indefinite;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">\r\n'[39m +
+      [32m'    6</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">In case of \r\n'[39m +
+      [32m'    a extended duration contract, the stipulation in the previous paragraph \r\n'[39m +
+      [32m'    applies only to the first delivery.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'6'[39m,
+    title: [32m'- Right of withdrawal'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">When \r\n'[39m +
+      [32m'    purchasing products, a consumer has the possibility of dissolving the \r\n'[39m +
+      [32m'    contract, without giving reasons, during fourteen days. This period \r\n'[39m +
+      [32m'    commences on the day after the product was received by the consumer or a \r\n'[39m +
+      [32m'    &nbsp;representative previous designated by the consumer and announced to the \r\n'[39m +
+      [32m'    trader.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">During this \r\n'[39m +
+      [32m'    period the consumer will treat the product and its packaging with care. He \r\n'[39m +
+      [32m'    will only unpack or use the product as far as necessary in order to be able \r\n'[39m +
+      [32m'    to assess whether he wishes to retain the product. If he wishes to exercise \r\n'[39m +
+      [32m'    his right of withdrawal, then he will return the product to the trader, with \r\n'[39m +
+      [32m'    all associated components, and – in as far as this is reasonably possible – \r\n'[39m +
+      [32m'    in the original state and packaging, in accordance with the reasonable and \r\n'[39m +
+      [32m'    clear instructions that were provided by the trader.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'7'[39m,
+    title: [32m'- Costs in a case of withdrawal'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If a \r\n'[39m +
+      [32m'    consumer makes use of his right of withdrawal, he shall be responsible for, \r\n'[39m +
+      [32m'    at most, the costs of returning the goods.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If the \r\n'[39m +
+      [32m'    consumer has paid a sum, the trader will refund this sum as quickly as \r\n'[39m +
+      [32m'    possible, though at the latest within 30 days after the goods were returned \r\n'[39m +
+      [32m'    or after the withdrawal</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'8'[39m,
+    title: [32m'- Preclusion from right of withdrawal'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The trader \r\n'[39m +
+      [32m'    can preclude the consumer from having a right of withdrawal as far is \r\n'[39m +
+      [32m'    provided for in paragraph 2 and 3 of this article. The preclusion of the \r\n'[39m +
+      [32m'    right of withdrawal is only valid if the trader clearly stated this fact \r\n'[39m +
+      [32m'    when making the offer, or at least in good time prior to conclusion of the \r\n'[39m +
+      [32m'    contract.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">\r\n'[39m +
+      [32m'    2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Preclusion \r\n'[39m +
+      [32m'    from the right of withdrawal is only possible for products: \r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    a.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">that have \r\n'[39m +
+      [32m'    been created by the trader in accordance with the consumer’s specifications;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    b.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">that are \r\n'[39m +
+      [32m'    clearly of a personal nature;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    c.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">that cannot \r\n'[39m +
+      [32m'    be returned due to their nature;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    d.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">that \r\n'[39m +
+      [32m'    rapidly decay or become obsolete;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    e.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the price \r\n'[39m +
+      [32m'    of which is subject to fluctuations on the financial market over which the \r\n'[39m +
+      [32m'    trader has no influence;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    f.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">for individual \r\n'[39m +
+      [32m'    newspapers and magazines;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    g.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">for audio- \r\n'[39m +
+      [32m'    and video-recordings and computer software, whereby the consumer has broken \r\n'[39m +
+      [32m'    the seal.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">\r\n'[39m +
+      [32m'    3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Preclusion \r\n'[39m +
+      [32m'    from the right of withdrawal is only possible for services:\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">a.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">relating to \r\n'[39m +
+      [32m'    accommodation, transport, restaurant business or leisure activities to be \r\n'[39m +
+      [32m'    carried out on a given date or during a given period;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">b.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium"> the supply \r\n'[39m +
+      [32m'    of which commenced, with the explicit consent of the consumer, before the \r\n'[39m +
+      [32m'    withdrawal period had lapsed;\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">c.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">relating to \r\n'[39m +
+      [32m'    bets and lotteries.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'9'[39m,
+    title: [32m'- The price'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">During the \r\n'[39m +
+      [32m'    period of validity indicated in the offer, the prices of the products and/or \r\n'[39m +
+      [32m'    services being offered will not be increased, except for price changes in \r\n'[39m +
+      [32m'    VAT-tariffs.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Contrary to \r\n'[39m +
+      [32m'    the previous paragraph, the trader may offer products or services at \r\n'[39m +
+      [32m'    variable prices, in cases where these prices are subject to fluctuations in \r\n'[39m +
+      [32m'    the financial market over which the trader has no influence. The offer must \r\n'[39m +
+      [32m'    refer to this link with fluctuations and the fact that any prices mentioned \r\n'[39m +
+      [32m'    are recommended prices. \r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Price \r\n'[39m +
+      [32m'    increases within 3 months after the contract was concluded are only \r\n'[39m +
+      [32m'    permitted if they are the result of statutory regulations or stipulations.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Price \r\n'[39m +
+      [32m'    increases more than 3 months after the contract was concluded are only \r\n'[39m +
+      [32m'    permitted if the trader stipulated as much and: \r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    a.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">they are \r\n'[39m +
+      [32m'    the result of statutory regulations or stipulations; or</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" align="center" valign="top">\r\n'[39m +
+      [32m'    b.</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">the \r\n'[39m +
+      [32m'    consumer is authorized to terminate the contract on the day on which the \r\n'[39m +
+      [32m'    price increase takes effect.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">5</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Prices \r\n'[39m +
+      [32m'    stated in offers of products or services include VAT.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'10'[39m,
+    title: [32m'- Conformity and Guarantee'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The trader \r\n'[39m +
+      [32m'    guarantees that the products and/or services fulfill the contract, the \r\n'[39m +
+      [32m'    specifications stated in the offer, the reasonable requirements of \r\n'[39m +
+      [32m'    reliability and/or serviceability and the statutory stipulations and/or \r\n'[39m +
+      [32m'    government regulations that existed on the date that the contract was \r\n'[39m +
+      [32m'    concluded. If agreed the trader also guarantees that the product is suited \r\n'[39m +
+      [32m'    for other than normal designation.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">A guarantee \r\n'[39m +
+      [32m'    arrangement offered by the trader, manufacturer or importer does not affect \r\n'[39m +
+      [32m'    the legal rights and claims that a consumer, as a result of the contract, \r\n'[39m +
+      [32m'    can enforce against the trader.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'11'[39m,
+    title: [32m'- Supply and implementation'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The trader \r\n'[39m +
+      [32m'    will take the greatest possible care when receiving and implementing orders \r\n'[39m +
+      [32m'    for products and when assessing applications for the provision of services.\r\n'[39m +
+      [32m'\r\n'[39m +
+      [32m'      </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The place of delivery is the address of the company.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Taking into \r\n'[39m +
+      [32m'    consideration that what is stated in article 4 of these general terms and \r\n'[39m +
+      [32m'    conditions, the company will implement accepted orders with efficient \r\n'[39m +
+      [32m'    expedition, though at the latest within 30 days, unless a longer period of \r\n'[39m +
+      [32m'    delivery has been agreed.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">In the event of termination in accordance with the preceding paragraph, the operator will return the amount that consumers paid as soon as possible but no later than 30 days after repudiation.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">5</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If the delivery of an ordered product prove impossible, the trader will attempt to provide a replacement article. The fact that a replacement article is being supplied will be stated clearly and intelligibly, at the latest upon delivery. The right of withdrawal cannot be precluded in the case of replacement articles. The costs of return shipments will be charged to the trader.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">6</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The risk of \r\n'[39m +
+      [32m'    damage and/or loss of products rests upon the trader up to the moment of \r\n'[39m +
+      [32m'    delivery to the consumer or a&nbsp; representative previous designated by the \r\n'[39m +
+      [32m'    consumer and announced to the trader, unless this has explicitly been agreed \r\n'[39m +
+      [32m'    otherwise.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'13'[39m,
+    title: [32m'- Payment'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'As far as no other date has been agreed, sums payable by the consumer should be \r\n'[39m +
+      [32m'paid within 14 days after the start of the withdrawal period as stipulated in \r\n'[39m +
+      [32m'article 6 paragraph 1. In the case of a contract to provide a service this 14 \r\n'[39m +
+      [32m'days start on the moment the consumer receives the traders confirmation of the \r\n'[39m +
+      [32m'contract.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">When \r\n'[39m +
+      [32m'    selling products to consumers, the general terms and conditions may never \r\n'[39m +
+      [32m'    stipulate an advance payment in excess of 50%. Where advance payment is \r\n'[39m +
+      [32m'    stipulated, the consumer cannot invoke any rights whatsoever in relation to \r\n'[39m +
+      [32m'    the implementation of the order or service(s) in question before the \r\n'[39m +
+      [32m'    stipulated advance payment has been made.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The \r\n'[39m +
+      [32m'    consumer is obliged to report immediately to the trader any inaccuracies in \r\n'[39m +
+      [32m'    payment data provided or stated.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">In the \r\n'[39m +
+      [32m'    event of non-payment on the part of the consumer, the trader has the right, \r\n'[39m +
+      [32m'    subject to statutory limitations, to charge the consumer reasonable costs \r\n'[39m +
+      [32m'    about which the consumer was informed in advance.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'14'[39m,
+    title: [32m'- Complaints procedure'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">The trader \r\n'[39m +
+      [32m'    provides for a complaints procedure, that has been given sufficient \r\n'[39m +
+      [32m'    publicity, and will deal with a complaint in accordance with this complaints \r\n'[39m +
+      [32m'    procedure.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">2</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Complaints \r\n'[39m +
+      [32m'    about exercising the contract must be submitted to the trader without delay, \r\n'[39m +
+      [32m'    in their entirety and clearly defined, after the consumer has discovered the \r\n'[39m +
+      [32m'    defects.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">3</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">A reply to \r\n'[39m +
+      [32m'    complaints submitted to the trader will be provided within a period of 14 \r\n'[39m +
+      [32m'    days, calculated from the date of receipt. If it is anticipated that a \r\n'[39m +
+      [32m'    complaint will require a longer processing time, then the trader will reply \r\n'[39m +
+      [32m'    within 14 days, confirming receipt and indicating when the consumer can \r\n'[39m +
+      [32m'    expect a more elaborate reply.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">4</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">If the \r\n'[39m +
+      [32m'    complaint cannot be solved in joint consultation, then it becomes a dispute \r\n'[39m +
+      [32m'    that is subject to the disputes settlement scheme.\r\n'[39m +
+      [32m'</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'15'[39m,
+    title: [32m'- Disputes'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top" height="5"></td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium" height="5"></td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium" height="5">\r\n'[39m +
+      [32m'    \r\n'[39m +
+      [32m'    </td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" align="right" style="border-style: none; border-width: medium" valign="top">1</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">Contracts between the trader and the consumer of these terms refer only to Dutch law.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  },
+  {
+    id: [32m'16'[39m,
+    title: [32m'- Additional or different stipulations'[39m,
+    details: [32m'<table border="0" cellpadding="0" cellspacing="0" style="border-width:0; border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">\r\n'[39m +
+      [32m'      Additional stipulations or stipulations that differ from these general \r\n'[39m +
+      [32m'      terms and conditions, may not be detrimental to the consumer and should be \r\n'[39m +
+      [32m'      recorded in writing, or in such a way that consumers can store them in a \r\n'[39m +
+      [32m'      readily accessible manner on a durable medium.</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'  <tr>\r\n'[39m +
+      [32m'    <td width="5%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'    <td width="90%" style="border-style: none; border-width: medium">&nbsp;</td>\r\n'[39m +
+      [32m'  </tr>\r\n'[39m +
+      [32m'</table>'[39m
+  }
+]
+{
+  keys: [
+    {
+      title: [32m'How often should I worm my cat or dog'[39m,
+      link: [32m'ontwormen.html'[39m
+    },
+    {
+      title: [32m'Veel voorkomende gebitsproblemen bij honden en katten'[39m,
+      link: [32m'veel-voorkomende'[39m
+    },
+    {
+      title: [32m'Wie is VoorMijnDier?'[39m,
+      link: [32m'wie-voormijndier'[39m
+    },
+    {
+      title: [32m'Hoe verzorg je het gebit?'[39m,
+      link: [32m'het-gebit'[39m
+    }
+  ],
+  posts: [
+    {
+      id: [32m'3'[39m,
+      type: [32m'1'[39m,
+      title: [32m'How often should I worm my cat or dog'[39m,
+      image: [1mnull[22m,
+      url: [32m'ontwormen.html'[39m,
+      description: [32m'Specialists recommend that adult pet worming at least four times a year , if the individual risk (depending on the lifestyle and the age of the animal) can not be determined. Puppies and kittens should be wormed more often because they are in the womb ( puppies ) or milk ( puppies and kittens ) with worms become infected.'[39m,
+      fullDescription: [32m'Specialists recommend that adult pet worming at least four times a year , if the individual risk (depending on the lifestyle and the age of the animal) can not be determined. Puppies and kittens should be wormed more often because they are in the womb ( puppies ) or milk ( puppies and kittens ) with worms become infected.\r\n'[39m +
+        [32m'<br><br>\r\n'[39m +
+        [32m'Most anthelmintics only work on the day of treatment. They will then be the adult worms in the intestine of the dog or cat deaths. But the wandering larvae of roundworms will survive , so that in fact a repeat treatment is necessary. Products Profender , Advocate and Stronghold besides that kill the older larvae of roundworms , which is more thorough deworming .'[39m
+    },
+    {
+      id: [32m'5'[39m,
+      type: [32m'1'[39m,
+      title: [32m'Veel voorkomende gebitsproblemen bij honden en katten'[39m,
+      image: [1mnull[22m,
+      url: [32m'veel-voorkomende'[39m,
+      description: [32m'Verminderde eetlust: Je huisdier eet plotseling veel minder.'[39m,
+      fullDescription: [32m'Verminderde eetlust: Je huisdier eet plotseling veel minder. Vooral als hij droge, harde brokjes laat staan kan dit betekenen dat hij last heeft van zijn gebit.\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Slechte adem: honden/katten hebben van nature geen slechte adem. Dit wordt weleens gedacht maar dat is ten onrechte. Dus als de adem van je dier stinkt, kan dit wijzen op gebitsproblemen (echter ook op andere aandoeningen, zoals spijsverteringsaandoeningen).\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Verkleurde tanden: Als je een bruine aanslag op de tanden van je hond/kat ziet kan dit wijzen op gebitsproblemen, bijvoorbeeld tandplaque. Tandplaque kan allerlei vervelende gevolgen hebben zoals ontstekingen. De bacteriën die zich ophopen in tandplaque kunnen zich ook verspreiden naar andere delen van het lichaam en zelfs vitale organen aantasten.\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Ander gedrag: Een hond of kat met pijn zal zich anders gaan gedragen. Vaak merk je dit doordat hij meer afstandelijk is of eerder agressief gedrag vertoont. Denk in dat geval ook eens aan gebitsproblemen.\r\n'[39m +
+        [32m'Verminderde eetlust: Je huisdier eet plotseling veel minder. Vooral als hij droge, harde brokjes laat staan kan dit betekenen dat hij last heeft van zijn gebit.\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Slechte adem: honden/katten hebben van nature geen slechte adem. Dit wordt weleens gedacht maar dat is ten onrechte. Dus als de adem van je dier stinkt, kan dit wijzen op gebitsproblemen (echter ook op andere aandoeningen, zoals spijsverteringsaandoeningen).\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Verkleurde tanden: Als je een bruine aanslag op de tanden van je hond/kat ziet kan dit wijzen op gebitsproblemen, bijvoorbeeld tandplaque. Tandplaque kan allerlei vervelende gevolgen hebben zoals ontstekingen. De bacteriën die zich ophopen in tandplaque kunnen zich ook verspreiden naar andere delen van het lichaam en zelfs vitale organen aantasten.\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Ander gedrag: Een hond of kat met pijn zal zich anders gaan gedragen. Vaak merk je dit doordat hij meer afstandelijk is of eerder agressief gedrag vertoont. Denk in dat geval ook eens aan gebitsproblemen.'[39m
+    },
+    {
+      id: [32m'6'[39m,
+      type: [32m'1'[39m,
+      title: [32m'Wie is VoorMijnDier?'[39m,
+      image: [32m'https://www.vetdirekt.shop/master/images/articles/blog-articles1.jpg'[39m,
+      url: [32m'wie-voormijndier'[39m,
+      description: [32m'VoorMijnDier is dé webshop voor iedere diereigenaar die op zoek is naar gezonde en verantwoorde producten voor zijn/haar dier(en).'[39m,
+      fullDescription: [32m'Als software developer werk je aan complexe, professionele door ons zelf ontwikkelde webshop applicaties op basis van PHP. <br /><br />\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'<b>Over ons bedrijf: </b><br /><br />\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Onlinepets is een snel groeiend e-commercebedrijf en we staan zelfs al twee jaar op rij in de Top 250 Groeibedrijven van Nederland. Via de webshops Medpets.nl, Medpets.be, Medpets.de, Vetsend.co.uk en Medpets.fr verkopen wij geneesmiddelen, supplementen, voer en benodigdheden voor huisdieren aan respectievelijk Nederlandse, Belgische (Vlaamse), Duitse, Britse en Franse consumenten.<br /><br />\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Vanuit Oud Gastel, nabij Roosendaal, werken we met 80 collega’s die zich bezig houden met marketing, klantenservice, webdevelopment en fulfilment. Maandelijks verlaten meer dan 65.000 pakketten ons magazijn met als eindbestemming klanten in onder andere Nederland, België, Duitsland, Oostenrijk, Verenigd Koninkrijk en Frankrijk.<br /><br />\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'De afgelopen jaren heeft Medpets hard aan de weg getimmerd en dit is door onze klanten beloond. Zo won Medpets.nl in 2014 de Thuiswinkel Award Publieksprijs XS in de categorie Dieren en heeft Medpets.be in 2015 en 2017 de BeCommerce Award in de categorie Home, Garden & Animal gewonnen. Inmiddels staat Medpets op plek 88 van het middensegment van de Twinkle top 100. <br /><br />\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'<h2>Het IT-team gaat uitbreiden en daarom zijn we op zoek naar een Laravel developer. </h2>'[39m
+    },
+    {
+      id: [32m'7'[39m,
+      type: [32m'1'[39m,
+      title: [32m'Hoe verzorg je het gebit?'[39m,
+      image: [1mnull[22m,
+      url: [32m'het-gebit'[39m,
+      description: [32m'Tandenpoetsen is een belangrijk onderdeel van een goede gebitsverzorging. Kun je überhaupt de tanden van een kat poetsen en zo ja, hoe pak je dit dan aan'[39m,
+      fullDescription: [32m'Hoe poets je de tanden van je kat?\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Tandenpoetsen is een belangrijk onderdeel van een goede gebitsverzorging. Kun je überhaupt de tanden van een kat poetsen en zo ja, hoe pak je dit dan aan?\r\n'[39m +
+        [32m'Kun je de tanden van je kat poetsen?\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Ja, je kunt de tanden van je kat poetsen. Door de tanden van je kat regelmatig te poetsen, verwijder je tandplak en help je tandsteen te voorkomen. Je kat zal echter wel moeten wennen aan tandenpoetsen, maar met een beetje geduld en de juiste producten kom je al een heel eind!   \r\n'[39m +
+        [32m'Welke tandpasta en tandenborstel heb ik nodig voor mijn kat?\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Voor dieren zijn er speciale tandenborstels en tandpasta’s.\r\n'[39m +
+        [32m'Tandenborstels voor katten\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'De tandenborstels die wij zelf gebruiken zijn vaak te groot voor een kattengebit. Dierentandenborstels hebben vaak aan twee kanten een borstel zodat je kunt kijken welk formaat voor jouw kat geschikt is. Ook zijn er ‘vingertandenborstels’. Deze vingertandenborstels zijn borstels die je om je vinger kunt schuiven. Op deze manier is de tandenborstel kleiner wat voor je kat fijner is als hij/zij nog niet gewend is om haar tanden te poetsen.\r\n'[39m +
+        [32m'Tandpasta voor katten\r\n'[39m +
+        [32m'\r\n'[39m +
+        [32m'Gebruik altijd een tandpasta speciaal voor katten en niet je eigen tandpasta. In onze tandpasta zit namelijk vaak xylitol. Xylitol is giftig voor de meeste dieren en kan leiden tot een dodelijke daling van de bloedsuikerspiegel. Ook bevat onze tandpasta te veel fluor waardoor dit bij doorslikken problemen kan geven. Tandpasta speciaal voor katten is vaak verrijkt met een smaakje, bijvoorbeeld kipsmaak. Hierdoor ervaart de kat het eerder als een snack, wat de tandenpoetstraining makkelijker maakt.'[39m
+    }
+  ]
+}
